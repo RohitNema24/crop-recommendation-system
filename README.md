@@ -1,2 +1,3 @@
 <h1>Crop Recommendation System </h1>
-![image](https://github.com/RohitNema24/crop-recommendation-system/assets/87472587/8c6adb9b-a0c8-42fa-98ba-2588007d016f)
+![image](https://github.com/RohitNema24/crop-recommendation-system/assets/87472587/ed622343-ed0d-467b-af87-784f88d1d378)
+
